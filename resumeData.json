@@ -41,6 +41,11 @@
         "name": "github",
         "url": "https://github.com/developersbeat/",
         "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/13849228/sarthak-kuchhal",
+        "className": "fa fa-stack-overflow"
       }
     ]
   },
@@ -55,14 +60,14 @@
       {
         "school": "DCRUST",
         "degree": "Master's in Computer Applications",
-        "graduated": "March 2003"
+        "graduated": "Pursuing"
       }
     ],
     "work": [
       {
         "company": "uTest/Applause",
         "title": "Academy Test Team Lead ",
-        "years": "March 2010 - Present",
+        "years": "December 2021 - Present",
         "description": "Work directly with Test Engineers, keeping watch on tester performances & escalating the issues. Help testers clear any blockers & guiding/motivating them to be effective & efficient. Triage bug reports & Test Cases"
       },
       {
