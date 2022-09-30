@@ -18,9 +18,9 @@ class Footer extends Component {
               {networks}
            </ul>
 
-           <ul className="copyright">
+           <ul className="copyright" style={{color:"white"}}>
               <li>&copy; Sarthak Kuchhal</li>
-              <li>Design by <a title="Sarthak Kuchhal" href="/">Sarthak Kuchhal</a></li>
+              <li>Design by <a style={{color:"blue"}} title="Sarthak Kuchhal" href="/">Sarthak Kuchhal</a></li>
            </ul>
 
         </div>

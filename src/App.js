@@ -6,8 +6,7 @@ import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
-import UtestScore from "./Pages/UtestScore";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+
 // import { Switch } from "react-router"
 // import Testimonials from './Components/Testimonials';
 // import Portfolio from './Components/Portfolio';
@@ -41,13 +40,6 @@ class App extends Component {
   }
 
   render() {
-    <Router>
-      {/* <Switch> */}
-        <Route path="/utest" exact>
-          <UtestScore />
-        </Route>
-      {/* </Switch> */}
-    </Router>;
     return (
       <div className="App">
         <Header data={this.state.resumeData.main} />

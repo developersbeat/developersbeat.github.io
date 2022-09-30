@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Sarthak Kuchhal",
-    "occupation": "Test Team Lead | React.js Dev",
-    "description": "I'm from India. ✨ I am working as a React Developer and Test Team Lead. ✨",
+    "occupation": "Academy Test Engineer | uTest Moderator | Functional/Usability Tester | React.js Dev",
+    "description": "I'm from India. ✨ I am working as a React Developer and Test Engineer. ✨",
     "image": "profilepic.jpg",
-    "bio": "I am currently working as an Academy TTL at uTest / Applause. I have an experience of 3 Years with Web Development using 🔥HTML /CSS /Jacascript /PHP🔥 and 2 years of working experience with the 🔥React.js🔥 framework",
+    "bio": "I am currently working as an Academy Test Engineer at uTest / Applause. I have an experience of 3 Years with Web Development using 🔥HTML /CSS /Jacascript /PHP🔥 and 2 years of working experience with the 🔥React.js🔥 framework",
     "contactmessage": "You can have a talk with me here!",
     "email": "developersbeat@gmail.com",
     "phone": "+91 98-1288-5277",
@@ -66,8 +66,26 @@
     "work": [
       {
         "company": "uTest/Applause",
+        "title": "Academy Test Engineer ",
+        "years": "August 2022 - Present",
+        "description": "Work directly with Senior TEs and TS Managers, drafting cycles. Help testers clear any blockers & guiding/motivating them to be effective & efficient. Helping the TTLs with any issues they are facing while Triage"
+      },
+      {
+        "company": "uTest/Applause",
+        "title": "Community Moderator ",
+        "years": "August 2022 - Present",
+        "description": "Work directly with the Community Management Team and helping the keep the Community clean. Also, check and guide the help seeking testers in the community and forums"
+      },
+      {
+        "company": "Applause",
+        "title": "Video Editor & Content Writer - Creative Team ",
+        "years": "March 2022 - Present",
+        "description": "Work with the Community and Product team to make the tutorials and videos for the Tester, TTL and TEs Academy Guides."
+      },
+      {
+        "company": "uTest/Applause",
         "title": "Academy Test Team Lead ",
-        "years": "December 2021 - Present",
+        "years": "December 2021 - August 2022",
         "description": "Work directly with Test Engineers, keeping watch on tester performances & escalating the issues. Help testers clear any blockers & guiding/motivating them to be effective & efficient. Triage bug reports & Test Cases"
       },
       {
@@ -91,8 +109,8 @@
     ],
     "skills": [
       {
-        "name": "Test Team Leading",
-        "level": "95%"
+        "name": "Managing Team",
+        "level": "99%"
       },
       {
         "name": "Functionality Testing",
