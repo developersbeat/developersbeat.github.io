@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Sarthak Kuchhal",
+    "occupation": "Academy Test Engineer | uTest Moderator | Functional/Usability Tester | React.js Dev",
+    "description": "I'm from India. ✨ I am working as a React Developer and Test Engineer. ✨",
+    "image": "profilepic.jpg",
+    "bio": "I am currently working as an Academy Test Engineer at uTest / Applause. I have an experience of 3 Years with Web Development using 🔥HTML /CSS /Jacascript /PHP🔥 and 2 years of working experience with the 🔥React.js🔥 framework",
+    "contactmessage": "You can have a talk with me here!",
+    "email": "developersbeat@gmail.com",
+    "phone": "+91 98-1288-5277",
+    "address": {
+      "street": "Sector 15",
+      "city": "Sonipat",
+      "state": "Haryana",
+      "zip": "131001"
+    },
+    "website": "https://linktr.ee/developersbeat",
+    "resumedownload": "https://drive.google.com/drive/folders/1Lra0UTBDGHPsutVjDI_sRQ_PZqLgIgvO",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/sarthak.kuchhal",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/sarthakkuchhal",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sarthak-kuchhal/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/iam.sarthak_",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/developersbeat/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/13849228/sarthak-kuchhal",
+        "className": "fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Fast learner & adaptable",
+    "education": [
+      {
+        "school": "Delhi University",
+        "degree": "Bachelor's in Commerce",
+        "graduated": "April 2021"
+      },
+      {
+        "school": "DCRUST",
+        "degree": "Master's in Computer Applications",
+        "graduated": "Pursuing"
+      }
+    ],
+    "work": [
+      {
+        "company": "uTest/Applause",
+        "title": "Academy Test Engineer ",
+        "years": "August 2022 - Present",
+        "description": "Work directly with Senior TEs and TS Managers, drafting cycles. Help testers clear any blockers & guiding/motivating them to be effective & efficient. Helping the TTLs with any issues they are facing while Triage"
+      },
+      {
+        "company": "uTest/Applause",
+        "title": "Community Moderator ",
+        "years": "August 2022 - Present",
+        "description": "Work directly with the Community Management Team and helping the keep the Community clean. Also, check and guide the help seeking testers in the community and forums"
+      },
+      {
+        "company": "Applause",
+        "title": "Video Editor & Content Writer - Creative Team ",
+        "years": "March 2022 - Present",
+        "description": "Work with the Community and Product team to make the tutorials and videos for the Tester, TTL and TEs Academy Guides."
+      },
+      {
+        "company": "uTest/Applause",
+        "title": "Academy Test Team Lead ",
+        "years": "December 2021 - August 2022",
+        "description": "Work directly with Test Engineers, keeping watch on tester performances & escalating the issues. Help testers clear any blockers & guiding/motivating them to be effective & efficient. Triage bug reports & Test Cases"
+      },
+      {
+        "company": "uTest/Applause",
+        "title": "Functional / Usability Tester ",
+        "years": "May 2021 - Present,",
+        "description": "Gold rated Functional Tester. Gold rated Usability Tester. Worked with 100+ products and 200+ Test Cycles. Submitted more than 200 valuable bugs"
+      },
+      {
+        "company": "Credochain",
+        "title": "Frontend React Developer / Digital Marketer ",
+        "years": "January 2020 - Febuarary 2021,",
+        "description": "Worked as React Developer responsible for Frontend. Worked with Rest APIs responsible for API integrations."
+      },
+      {
+        "company": "Aims Educare",
+        "title": "Frontend Developer / Digital Marketer ",
+        "years": "October 2018 - December 2020,",
+        "description": " Made an LMS integrated website using Wordpress for Aims Educare."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Managing Team",
+        "level": "99%"
+      },
+      {
+        "name": "Functionality Testing",
+        "level": "94%"
+      },
+      {
+        "name": "Usability Testing",
+        "level": "90%"
+      },
+      {
+        "name": "React.js",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
